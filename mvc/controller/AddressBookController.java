@@ -238,6 +238,7 @@ public class AddressBookController {
          detailPanel.getNameField().setEditable(false);
          detailPanel.getMobileField().setEditable(false);
          detailPanel.geteMailField().setEditable(false);
+         detailPanel.getAddressField().setEditable(false);
          
          
         }
